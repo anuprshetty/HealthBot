@@ -1,0 +1,7 @@
+.suo
+packages
+bin
+obj
+
+mssql_server/docker_volumes/mssql_data/*
+!mssql_server/docker_volumes/mssql_data/.gitkeep
