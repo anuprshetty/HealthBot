@@ -12,4 +12,19 @@
 
 A **patient monitor** is an electronic medical device that consists of one of more monitoring sensors, a processing component(s), and a screen display(also called a "monitor") that provide and record for medical professionals a patient's medical vital signs(body temperature, blood pressure, pulse rate and respiratory rate) or measurements of the activity of various body organs such as ECG monitors, anesthesia monitors, or EKG monitors.
 
+## Flowchart
+
+**Flowchart** for HealthBot application.
+![HealthBot Flowchart](images/HealthBotFlowchart.png)
+
+## UML Class Diagram
+
+**UML class diagram** for HealthBot application.
+![HealthBot UML Class Diagram](images/HealthBotUMLClassDiagram.png)
+
+## Database Model
+
+**Database model** for HealthBot application.
+![HealthBot Database_Model](images/DBSchemaToDBObject.png)
+
 
