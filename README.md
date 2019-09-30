@@ -47,4 +47,12 @@ A **patient monitor** is an electronic medical device that consists of one of mo
 - Import and execute **HealthBot.sql** file in Microsoft SQL Server Management Studio.
 - View **ChatbotDB** database.
 
+### Code Setup
+
+- Install Microsoft Visual Studio to work with .NET desktop development.
+- Open C# solution **HealthBot.sln** in Microsoft Visual Studio.
+- Install all the built-in packages required for C# solution using Microsoft Visual Studio.
+- Establish a connectivity to database server using **Server Explorer** in Microsoft Visual Studio.
+- Run the batch file **AutoBuildRun.bat** to chat with **HealthBot**.
+
 
