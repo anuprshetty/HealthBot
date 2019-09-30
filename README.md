@@ -38,4 +38,13 @@ A **patient monitor** is an electronic medical device that consists of one of mo
 - Batch programming
 - Docker and Docker Compose
 
+## Project Setup
+
+### Database Setup
+
+- Run Microsoft SQL Server docker container.
+- Install and open Microsoft SQL Server Management Studio.
+- Import and execute **HealthBot.sql** file in Microsoft SQL Server Management Studio.
+- View **ChatbotDB** database.
+
 
