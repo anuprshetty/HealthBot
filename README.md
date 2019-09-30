@@ -55,4 +55,8 @@ A **patient monitor** is an electronic medical device that consists of one of mo
 - Establish a connectivity to database server using **Server Explorer** in Microsoft Visual Studio.
 - Run the batch file **AutoBuildRun.bat** to chat with **HealthBot**.
 
+## References
 
+- [Philips Patient Monitors](https://www.philips.co.in/healthcare/solutions/patient-monitoring/patient-monitoring)
+
+[Back To The Top](#health-bot)
